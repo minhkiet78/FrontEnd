@@ -8,6 +8,7 @@
     left: 0;
     right: 0;
     height: var(--height-header);
+    z-index: 2;
 }
 .header__navbar{
     height: var(--height-navbar);
